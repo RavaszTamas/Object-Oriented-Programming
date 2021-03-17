@@ -1,0 +1,6 @@
+Peter|Assistant
+Jeff|Assistant
+Anne|Junior
+Harold|Junior
+Kate|Senior
+Louis|Senior
